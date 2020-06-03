@@ -19,4 +19,7 @@ Clone the repository, open the project in Android Studio, hit "Run". Done!
 -   Navigation Drawer
 
 ## Screenshots Of the App:
-
+<img src="image1.jpg"
+     style="float: left; margin-right: 10px;" />
+<img src="image2.jpg"
+     style="float: left; margin-right: 10px;" />
